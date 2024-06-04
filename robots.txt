@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bfrert.github.io/sitemap/sitemap.txt
